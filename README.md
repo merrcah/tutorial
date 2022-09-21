@@ -2,4 +2,4 @@
 based on the tutotrial: https://learngitbranching.js.org 
 
 # branching and merging
-we are following the tutorial lessons 2,3, and 4 (c3)
+we are following the tutorial lessons 2,3, and 4 
